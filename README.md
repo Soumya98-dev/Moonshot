@@ -6,6 +6,7 @@ Moonshot is an iOS app that lets users learn about the missions and astronauts t
 
 ![alt text](demo.png)
 ![alt text](missionsdetail.png)
+![alt text](astronauts.png)
 
 ## Features (Planned & Implemented)
 
