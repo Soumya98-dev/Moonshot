@@ -25,5 +25,5 @@ Moonshot is an iOS app that lets users learn about the missions and astronauts t
 
 1. Clone the repository
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/Soumya98-dev/Moonshot.git
    ```
